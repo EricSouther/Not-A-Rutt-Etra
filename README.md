@@ -10,5 +10,7 @@ BIll Etra Language Lifework (5 minute) https://vimeo.com/61152072 - Benton C Bai
 
 Rutt/Etra Software
 Signal Culture Re:Trace http://signalculture.org/retrace.html#.XPArF9NKjUI
+
 Vade: http://v002.info/plugins/v002-rutt-etra/
+
 Mathew Ragan: https://matthewragan.com/2014/04/27/inspired-by-rutt-etra-touchdesigner/
